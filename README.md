@@ -13,8 +13,9 @@ Katarina M. Braun1#, Luis A. Haddock III1#, Chelsea M. Crooks1, Gabrielle L. Bar
 4 Center for Infectious Disease Education and Research (CiDER), Osaka University 
 
 5 The Research Center for Global Viral Diseases, National Center for Global Health and Medicine Research Institute, Tokyo, Japan.
-
+-----------------------------------
 #These authors contributed equally. 
+
 *Corresponding author; tfriedri@wisc.edu 
 
 
