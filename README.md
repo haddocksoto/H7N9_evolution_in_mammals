@@ -14,7 +14,7 @@ Katarina M. Braun1#, Luis A. Haddock III1#, Chelsea M. Crooks1, Gabrielle L. Bar
 
 5 The Research Center for Global Viral Diseases, National Center for Global Health and Medicine Research Institute, Tokyo, Japan.
 
-# These authors contributed equally. 
+#These authors contributed equally. 
 *Corresponding author; tfriedri@wisc.edu 
 
 
