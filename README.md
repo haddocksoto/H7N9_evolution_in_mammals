@@ -21,7 +21,7 @@ Katarina M. Braun1#, Luis A. Haddock III1#, Chelsea M. Crooks1, Gabrielle L. Bar
 
 
 ## Abstract
-H7N9 avian influenza viruses (AIV) have caused over 1,500 dead end infections in humans since emerging in 2013. Although wild-type H7N9 AIV can transmit by respiratory droplets in ferrets, they have yet to adapt to and cause widespread outbreaks in humans. Previous studies have revealed molecular determinants of H7N9 AIV virus host-switching, but little is known about potential evolutionary constraints on this process. Here we compare patterns of sequence evolution for H7N9 AIV and mammalian H1N1 viruses transmitting in ferrets. We show that three main factors – purifying selection, stochasticity, and very narrow bottlenecks – combine to severely constrain the ability of H7N9 AIV to effectively adapt to mammalian hosts. We only find rare evidence of natural selection favoring new or mammalian-adapting mutations within ferrets and no evidence of natural selection acting during transmission. We conclude that human-adapted H7N9 viruses are unlikely to emerge during typical acute spillover infections. Our findings are instead consistent with a model in which the emergence of a human-transmissible virus would be a rare, though highly consequential, jackpot event. Strategies to limit the total number of spillover infections will also limit opportunities for the virus to win this evolutionary lottery.  
+H7N9 avian influenza viruses (AIV) have caused over 1,500 documented human infections since emerging in 2013. Although wild-type H7N9 AIV can transmit by respiratory droplets in ferrets, they have not yet caused widespread outbreaks in humans. Previous studies have revealed molecular determinants of H7N9 AIV virus host-switching, but little is known about potential evolutionary constraints on this process. Here we compare patterns of sequence evolution for H7N9 AIV and mammalian H1N1 viruses during replication and transmission in ferrets. We show that three main factors – purifying selection, stochasticity, and very narrow bottlenecks – combine to severely constrain the ability of H7N9 AIV to effectively adapt to mammalian hosts in isolated, acute spillover events. We only find rare evidence of natural selection favoring new or mammalian-adapting mutations within ferrets and no evidence of natural selection acting during transmission. We conclude that human-adapted H7N9 viruses are unlikely to emerge during typical spillover infections. Our findings are instead consistent with a model in which the emergence of a human-transmissible virus would be a rare, though highly consequential, “jackpot” event. Strategies to limit the total number of spillover infections will also limit opportunities for the virus to win this evolutionary lottery.  
 
 ## Repository 
 
@@ -43,7 +43,8 @@ The jupyter notebook should generally be run in the following order:
 8. `pairwise_diversity_plots.ipynb`
     - shows the command line code used to run the `Bottleneck_size_estimation_exact.r`. 
 9. `transmission_bottleneck_input_files_and_TV_plots.ipynb`
-10. `surveillance_analysis_with_JSON_files_from_nextstrain.ipynb`
+10. `parsing_json_files.ipynb`
+11. `global_surveillance_analysis.ipynb`
 
 ## Dependencies
 1. pandas
