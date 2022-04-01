@@ -5,9 +5,13 @@
 Katarina M. Braun1#, Luis A. Haddock III1#, Chelsea M. Crooks1, Gabrielle L. Barry1, Joe Lalli1, Gabriele Neumann1,2, Tokiko Watanabe 2,3,4, Masaki Imai 2,5, Seiya Yamayoshi 2,5, Mutsumi Ito 2, Yoshihiro Kawaoka1,2,5, Thomas C. Friedrich1*
 
 1 Department of Pathobiological Sciences, University of Wisconsin-Madison, Madison, WI, United States of America
+
 2 Division of Virology, Institute of Medical Science, University of Tokyo, Japan 
+
 3 Department of Molecular Virology, Research Institute for Microbial Diseases, Osaka University
+
 4 Center for Infectious Disease Education and Research (CiDER), Osaka University 
+
 5 The Research Center for Global Viral Diseases, National Center for Global Health and Medicine Research Institute, Tokyo, Japan.
 
 # These authors contributed equally. 
